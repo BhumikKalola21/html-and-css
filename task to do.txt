@@ -1,0 +1,17 @@
+CSS box model
+- learn how to center element
+- learn how to apply css on common class
+- learn background image property
+
+Practical
+- Design form with background image in body
+- use common class 
+
+
+
+we are using box-sizing: border-box to maintain proper grid structure
+
+
+learn display property
+try to design grid column
+gutter space
